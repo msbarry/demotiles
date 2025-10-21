@@ -1,9 +1,10 @@
 {
    "tiles":[
-      "https://demotiles.maplibre.org/tiles-omt/{z}/{x}/{y}.pbf"
+      "https://harelm.github.io/demotiles/tiles-mlt/plain/{z}/{x}/{y}.mlt"
    ],
    "name":"OpenMapTiles",
    "format":"pbf",
+   "encoding": "mlt",
    "basename":"N047E011.mbtiles",
    "id":"v3",
    "description":"A tileset showcasing all layers in OpenMapTiles. https://openmaptiles.org",
