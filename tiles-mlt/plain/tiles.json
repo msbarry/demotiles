@@ -1,6 +1,6 @@
 {
    "tiles":[
-      "https://harelm.github.io/demotiles/tiles-mlt/plain/{z}/{x}/{y}.mlt"
+      "https://pmtiles-proxy.ru3dlcomvcwh2zu.workers.dev/https://protomaps.dev/~msbarry/ma-mlt.pmtiles/{z}/{x}/{y}.mlt"
    ],
    "name":"OpenMapTiles",
    "format":"pbf",
